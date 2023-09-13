@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMAddJobVacancies",
+  "simulationId": "ohrmaddjobvacancies",
+  "start": 1694273192923,
+  "description": "",
+  "scenarios": ["OHRMAddJobVacancies"],
+  "assertions": [
+
+  ]
+}

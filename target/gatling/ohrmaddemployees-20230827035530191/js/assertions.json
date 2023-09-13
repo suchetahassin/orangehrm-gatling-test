@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMAddEmployees",
+  "simulationId": "ohrmaddemployees",
+  "start": 1693108530191,
+  "description": "Performance when user no. = 1",
+  "scenarios": ["OHRMAddEmployees"],
+  "assertions": [
+
+  ]
+}

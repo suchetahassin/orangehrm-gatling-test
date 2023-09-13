@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMLeaveApplyType",
+  "simulationId": "ohrmleaveapplytype",
+  "start": 1694274978928,
+  "description": "",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMRejectApplicant",
+  "simulationId": "ohrmrejectapplicant",
+  "start": 1694274540197,
+  "description": "",
+  "scenarios": ["OHRMRejectApplicant"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMAdminLogin",
+  "simulationId": "ohrmadminlogin",
+  "start": 1690905408090,
+  "description": "Admin Login",
+  "scenarios": ["OHRMAdminLogin"],
+  "assertions": [
+
+  ]
+}

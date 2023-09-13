@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.OHRMBuzzFeature",
+  "simulationId": "ohrmbuzzfeature",
+  "start": 1694275430543,
+  "description": "",
+  "scenarios": ["OHRMBuzzFeature"],
+  "assertions": [
+
+  ]
+}
